@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572343760 source:c:\users\aculplay\desktop\diccionario\memoria_dinamica\prueba\puntero\main.cpp
+	<iostream>
+	"punteroo.h"
+
+1572201819 source:c:\users\aculplay\desktop\diccionario\memoria_dinamica\prueba\puntero\punteroo.cpp
+	"punteroo.h"
+
+1572343946 c:\users\aculplay\desktop\diccionario\memoria_dinamica\prueba\puntero\punteroo.h
+	<iostream>
+
