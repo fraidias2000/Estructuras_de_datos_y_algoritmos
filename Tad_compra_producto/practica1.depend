@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\aculplay\desktop\eda\practica1\main.cpp
+	<iostream>
+
+1570630194 source:c:\users\aculplay\desktop\eda\practica1\producto.cpp
+	"producto.h"
+
+1570630522 c:\users\aculplay\desktop\eda\practica1\producto.h
+	<iostream>
+
+1570631353 source:c:\users\aculplay\desktop\eda\practica1\compra.cpp
+	"compra.h"
+
+1570631386 c:\users\aculplay\desktop\eda\practica1\compra.h
+	"producto.h"
+
+1571243629 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\tad_compra_producto\compra.cpp
+	"compra.h"
+
+1571243675 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\tad_compra_producto\compra.h
+	"producto.h"
+
+1571243644 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\tad_compra_producto\producto.h
+	<iostream>
+
+1571243685 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\tad_compra_producto\main.cpp
+	<iostream>
+	"producto.h"
+	"compra.h"
+
+1571243509 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\tad_compra_producto\producto.cpp
+	"producto.h"
+
+1571240029 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\0\tad_compra_producto\compra.cpp
+	"compra.h"
+
+1571240075 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\0\tad_compra_producto\compra.h
+	"producto.h"
+
+1572962587 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\0\tad_compra_producto\producto.h
+
+1571240085 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\0\tad_compra_producto\main.cpp
+	<iostream>
+	"producto.h"
+	"compra.h"
+
+1571239909 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\0\tad_compra_producto\producto.cpp
+	"producto.h"
+
