@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1571903205 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\main.cpp
+	<iostream>
+	"agrupaciones.h"
+	"producto.h"
+	"compra.h"
+
+1571846521 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\producto.cpp
+	"producto.h"
+
+1571849078 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\producto.h
+	<iostream>
+
+1571243629 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\compra.cpp
+	"compra.h"
+
+1571849171 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\compra.h
+	"producto.h"
+
+1571903290 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\agrupaciones\agrupaciones\agrupaciones.h
+	<iostream>
+
