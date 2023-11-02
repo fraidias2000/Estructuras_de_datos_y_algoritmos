@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1574242239 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\practica_2\main.cpp
+	<iostream>
+	"Participantes.h"
+	"ronda_seleccion.h"
+
+1574242119 source:c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\practica_2\participantes.cpp
+	"Participantes.h"
+	<iostream>
+	<sstream>
+
+1574087666 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\practica_2\participantes.h
+	<iostream>
+
+1574242519 c:\users\aculplay\desktop\ingenieria_informatica\2\estructuras_de_datos_y_algoritmos\practicas\1\practica_2\ronda_seleccion.h
+	<iostream>
+
